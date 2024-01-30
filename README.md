@@ -1,2 +1,47 @@
-# Blog-preview-card
-This challenge is to build out this blog preview card and get it looking as close to the design as possible.
+# Frontend Mentor - Blog preview card solution
+
+This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [Continued development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- See hover and focus states for all interactive elements on the page
+
+### Screenshot
+
+![](./screenshot.png)
+
+### Links
+
+- Solution URL: [Click me](https://your-solution-url.com)
+- Live Site URL: [Click me](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+### Continued development
+
+I plan to focus on CSS in future projects, as I feel that my current understanding and proficiency in CSS are areas that I'd like to strengthen and improve.
+
+## Author
+
+- Frontend Mentor - [@jatinrai](https://www.frontendmentor.io/profile/webycoderjatin)
